@@ -16,6 +16,7 @@ app.get("/", (request, response) => {
 	<body>
 		<div id="container"></div>
 		<script src="/static/bundle.js"></script>
+		<h1>Hello Ihor Brin</h1>
 	</body>
 </html>
 	`);
