@@ -27,7 +27,7 @@ npm run build
 npm start
 ```
 
-Load up http://localhost:3000 in your browser to view the example website.
+Load up http://localhost:8080 in your browser to view the example website.
 
 ## Libraries and frameworks used
 
